@@ -61,6 +61,11 @@ Retrieve cleaned and processed data, ready for analysis.
 
 If you find issues or have suggestions, feel free to open a pull request or submit an issue.
 
+## Future plans
+
+- Enabling to handle more than one session's data in different folders
+- Making it more userfriendly to 1) add input, 2) run just selected analyses
+
 ## License
 
 This project is licensed under GNU GENERAL PUBLIC LICENSE 3.0
