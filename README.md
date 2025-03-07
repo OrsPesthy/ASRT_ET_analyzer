@@ -14,7 +14,7 @@ This repository provides scripts to process eye-tracking data from the Alternati
 
 ## Credits
 
-The code is based on [a previous version](https://github.com/tzolnai/Child_ASRT_eye_tracking) written by Emese Hallgató (@hallgatoemese) Tamás Zolnai (@tzolnai) Orsolya Pesthy (@OrsPesthy). This version was made by Orsolya Pesthy (@OrsPesthy), Flóra Hann (@hannflora), and Cintia Anna Nagy (). Since the last version, it has undergone substantial modifications, including:
+The code is based on [a previous version](https://github.com/tzolnai/Child_ASRT_eye_tracking) written by Emese Hallgató (@hallgatoemese) Tamás Zolnai (@tzolnai) Orsolya Pesthy (@OrsPesthy). This version was made by Orsolya Pesthy (@OrsPesthy), Flóra Hann (@hannflora), and Cintia Anna Nagy (@cintianagy). Since the last version, it has undergone substantial modifications, including:
 
 - New calculations
 
