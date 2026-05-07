@@ -34,17 +34,18 @@ The code is based on [a previous version](https://github.com/tzolnai/Child_ASRT_
 
 ## Prerequisites
 
-Python: Version 3.13 (optimally) or later
+Python: 3.12.7
+
 
 Required Packages:
 
-pandas
-
-numpy
-
-os
-
-glob
+- pandas v2.2.2
+- numpy v1.26
+- os
+- glob
+- shutil
+- warnings
+- math
 
 
 ## Usage
